@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="%_S[8{d{0tXXBLHZRIJs" x="157" y="2"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="^p!T%X.X0!PRr.#sc`y]"><field name="LEDS">`
+        # . # . . 
+        # # # # # 
+        # # # # # 
+        # . # . . 
+        # . # . .
+        `</field></block></statement></block><block type="device_button_event" id="!f[oz^8-o#bylI+dyL%j" x="465" y="170"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="?GTz2u8FlJU1UkC}1U4$"><field name="LEDS">`
+        . # . . . 
+        # # # . . 
+        . # . . . 
+        # # # . . 
+        # . # . .
+        `</field></block></statement></block><block type="device_gesture_event" id="t`7%H*0Z[D0#Lu/*a@vR" x="728" y="194"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="`~ejm3*+;QtLg8!:3_6c"><field name="LEDS">`
+        # # # # # 
+        # . # . # 
+        # # # # # 
+        # . . . # 
+        # # # # #
+        `</field></block></statement></block><block type="input_logo_event" id="ScIOHcn--+MK0:73czmD" x="26" y="301"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_show_leds" id="4)F$}buu|RflB/YIYb/{"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . # # # . 
+        . # . # .
+        `</field></block></statement></block><block type="device_button_event" id="jVsJ3O/ZT[z15Gi{*!?0" x="322" y="354"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="q$R/T?9,,2.!qoZu-Pr("><field name="LEDS">`
+        . . . # . 
+        . . # # # 
+        . . . # . 
+        . . # # # 
+        . . # . #
+        `</field></block></statement></block><block type="device_gesture_event" id="upSrw8TM/?v:0,BJHK7[" x="559" y="517"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id="#%up}A:p~IvUG2nl)X0i"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        # . # . #
+        `</field></block></statement></block><block type="device_gesture_event" id="t$_t++LSkQ49YGMo$yvj" x="882" y="630"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="device_show_leds" id="#4gQ8~8ROg=((mrNlK~I"><field name="LEDS">`
+        # # # # # 
+        # # . # # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field></block></statement></block></xml>
